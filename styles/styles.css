@@ -28,7 +28,7 @@ body {
 .about_position {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 24px;
   line-height: 17px;
   color: #000000;
   margin-bottom: 20px;
@@ -46,7 +46,7 @@ body {
 .about_discription {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: black;
   width: 800px;
@@ -107,6 +107,9 @@ body {
 .project-link {
   margin-left: 10px;
   transition: all 0.3s;
+  color: #2E86C1;
+  font-weight: 700;
+  font-size: 18px;
 }
 .project-link:hover {
   color: #fb6d3a;
@@ -126,7 +129,7 @@ body {
 .discription {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: black;
   margin-top: 0;
@@ -151,14 +154,14 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  color: #fb6d3a;
+  color: #2E86C1;
   margin-bottom: 10px;
 }
 
 .period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
   color: black;
   margin-bottom: 8px;
@@ -173,13 +176,13 @@ body {
 
 .work_list {
   padding: 0;
-  margin-left: 15px;
+  margin-left: 18px;
 }
 
 .worklist_item {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: black;
   margin-top: 5px;
@@ -195,14 +198,14 @@ body {
   font-weight: 700;
   font-size: 20px;
   line-height: 20px;
-  color: #fb6d3a;
+  color: #2E86C1;
   margin-bottom: 10px;
 }
 
 .education_management {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 17px;
   color: #000000;
   margin-bottom: 10px;
@@ -216,7 +219,7 @@ body {
 
 .photo {
   width: 370px;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
   /* border-radius: 190px; */
 }
 

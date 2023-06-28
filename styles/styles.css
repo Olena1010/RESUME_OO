@@ -47,7 +47,7 @@ body {
 .about_discription {
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 24px;
   color: black;
   width: 800px;
@@ -130,7 +130,7 @@ body {
 .discription {
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 24px;
   color: black;
   margin-top: 0;
@@ -183,7 +183,7 @@ body {
 .worklist_item {
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 24px;
   color: black;
   margin-top: 5px;
@@ -219,9 +219,10 @@ body {
 }
 
 .photo {
-  width: 370px;
-  /* margin-bottom: 50px; */
-  /* border-radius: 190px; */
+  width: 270px;
+  margin-bottom: 50px; 
+  margin-left: 40px;
+ 
 }
 
 .sidebar_title {

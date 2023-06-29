@@ -3,15 +3,12 @@ body {
   background-color: #AED6F1;
 }
 
-/* main styles */
-/* p {
-  margin: 0;
-} */
+
 .main {
   display: flex;
   flex-direction: row-reverse;
   width: 1220px;
-  height: 1600px;
+  /* height: 1600px; */
   margin: 0% auto;
 }
 
@@ -140,11 +137,6 @@ body {
   margin-bottom: 0;
 }
 
-/* work styles */
-/* .work{
-    
-} */
-
 .work_position {
   font-style: normal;
   font-weight: 700;
@@ -189,10 +181,7 @@ body {
   padding: 0;
   margin-left: 18px;
 }
-/* .work_list p {
-  margin-top: 10px;
-  margin-bottom: 0;
-} */
+
 .worklist_item {
   font-style: normal;
   font-weight: 400;
@@ -237,7 +226,7 @@ body {
   width: 270px;
   margin-bottom: 50px; 
   margin-left: 40px;
-  /* border-radius: 30px; */
+
 }
 
 .sidebar_title {
@@ -255,14 +244,7 @@ body {
   margin-bottom: 50px;
 }
 
-/* .contacts p {
-    padding: .4rem 0; 
-     display: flex;
-    align-items: center; 
-    color: #d6dbdfaf;
-    letter-spacing: 1px; 
-    font-size: 24px; 
-} */
+
 
 .contacts a {
   font-size: 18px;
@@ -282,8 +264,6 @@ body {
 
 .techskills_list {
   font-style: normal;
-  /* font-weight: 400; */
-  /* font-size: 14px; */
   line-height: 24px;
   color: #ffffff;
   padding: 0%;
